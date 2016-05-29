@@ -1,0 +1,28 @@
+#ReadMe
+
+#运行:test下
+    sh train.sh 训练
+    sh predict.sh 预测
+    sh getOdict.sh 获取odict形式词典
+    sh cpall.sh 拷贝可执行工具
+
+    lr.conf 模型相关配置文件
+    node.conf 并行相关机器列表
+
+    bin 可执行文件
+    save_model 存储训练结果
+
+#数据:data下
+    详见运行脚本
+
+#代码:src下
+    logisticModel.h 函数及变量声明
+    logisticModel.cpp 主要函数实现
+    testLRTrain.cpp 训练工具
+    testLRPred.cpp 预测工具
+    testGetFeatureOdict.cpp 获取odict词典文件
+
+    LRTrainTool 训练工具
+    LRTestTool 预测工具
+    getFeatureOdictTool 获取odict词典文件工具
+
