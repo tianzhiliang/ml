@@ -1,0 +1,334 @@
+('Iterator:', 0)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 10.295630141
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 11.401754251
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 12.0830459736
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 14.7648230602
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 14.4222051019
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 10.8166538264
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 0.0
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 29.0
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Iterator:', 1)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 5.73033460575
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 6.30030773463
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 6.20894680346
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 7.68911236617
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 9.36450092376
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 8.67555797182
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 8.60113898485
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 20.4410551267
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Iterator:', 2)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 5.73033460575
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 6.30030773463
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 6.20894680346
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 7.68911236617
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 9.36450092376
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 8.67555797182
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 8.60113898485
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 20.4410551267
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Iterator:', 3)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 5.73033460575
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 6.30030773463
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 6.20894680346
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 7.68911236617
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 9.36450092376
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 8.67555797182
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 8.60113898485
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 20.4410551267
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Iterator:', 4)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 5.73033460575
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 6.30030773463
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 6.20894680346
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 7.68911236617
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 9.36450092376
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 8.67555797182
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 8.60113898485
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 20.4410551267
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Iterator:', 5)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 5.73033460575
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 6.30030773463
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 6.20894680346
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 7.68911236617
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 9.36450092376
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 8.67555797182
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 8.60113898485
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 20.4410551267
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Iterator:', 6)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 5.73033460575
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 6.30030773463
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 6.20894680346
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 7.68911236617
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 9.36450092376
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 8.67555797182
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 8.60113898485
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 20.4410551267
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Iterator:', 7)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 5.73033460575
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 6.30030773463
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 6.20894680346
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 7.68911236617
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 9.36450092376
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 8.67555797182
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 8.60113898485
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 20.4410551267
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Iterator:', 8)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 5.73033460575
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 6.30030773463
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 6.20894680346
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 7.68911236617
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 9.36450092376
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 8.67555797182
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 8.60113898485
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 20.4410551267
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Iterator:', 9)
+('data:', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0], [10.0, 30.0]])
+dataID: 0 cluID: 0 Dist: 5.73033460575
+dataID: 0 cluID: 1 Dist: 20.6155281281
+dataID: 0 NearestCluster: 0
+dataID: 1 cluID: 0 Dist: 6.30030773463
+dataID: 1 cluID: 1 Dist: 21.1896201004
+dataID: 1 NearestCluster: 0
+dataID: 2 cluID: 0 Dist: 6.20894680346
+dataID: 2 cluID: 1 Dist: 18.6815416923
+dataID: 2 NearestCluster: 0
+dataID: 3 cluID: 0 Dist: 7.68911236617
+dataID: 3 cluID: 1 Dist: 17.4642491966
+dataID: 3 NearestCluster: 0
+dataID: 4 cluID: 0 Dist: 9.36450092376
+dataID: 4 cluID: 1 Dist: 18.7882942281
+dataID: 4 NearestCluster: 0
+dataID: 5 cluID: 0 Dist: 8.67555797182
+dataID: 5 cluID: 1 Dist: 24.6981780705
+dataID: 5 NearestCluster: 0
+dataID: 6 cluID: 0 Dist: 8.60113898485
+dataID: 6 cluID: 1 Dist: 29.0
+dataID: 6 NearestCluster: 0
+dataID: 7 cluID: 0 Dist: 20.4410551267
+dataID: 7 cluID: 1 Dist: 0.0
+dataID: 7 NearestCluster: 1
+('cluster2data:', [[0, 1, 2, 3, 4, 5, 6], [7]])
+('data under cluster 0-th: ', [[15.0, 10.0], [3.0, 10.0], [15.0, 12.0], [3.0, 14.0], [18.0, 13.0], [1.0, 7.0], [10.0, 1.0]])
+('mean of cluster 0-th: ', [9.285714285714286, 9.571428571428571])
+('data under cluster 1-th: ', [[10.0, 30.0]])
+('mean of cluster 1-th: ', [10.0, 30.0])
+('cluster:', [[9.285714285714286, 9.571428571428571], [10.0, 30.0]])
+
+('Cluster: ', 0, ' Mean: ', [9.285714285714286, 9.571428571428571])
+('Cluster: ', 1, ' Mean: ', [10.0, 30.0])
+('Cluster: ', 0, ' Data: ', [0, 1, 2, 3, 4, 5, 6])
+('Cluster: ', 1, ' Data: ', [7])
